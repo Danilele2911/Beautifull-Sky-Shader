@@ -6,7 +6,7 @@ special thanks to sildur
 
 # INSTRUCTIONS
 
-extract the downloaded folder
+extract the downloaded folder in releases
 
 move the extracted folder to the shader packs folder
 
