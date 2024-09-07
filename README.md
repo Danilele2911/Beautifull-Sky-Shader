@@ -1,20 +1,23 @@
 # Beautiful-Sky
-An edit of Sildur's vibrant shader lite 1.52
-
-special thanks to sildur
+An edit of _Sildur's vibrant shader_ lite 1.52
 
 
 # INSTRUCTIONS
 
-extract the downloaded folder in releases
+**1.** extract the downloaded folder in releases
 
-move the extracted folder to the shader packs folder
+**2.** move the extracted folder to the shaderpacks folder
 
-run "install-shader.bat" located in the folder moved to shaderpacks
+**3.** run "install-shader.bat" located in the folder moved to shaderpacks
 
-wait
+**3.** wait
 
-run minecraft and select the shader
+**4.** run minecraft and select the shader
 
 
-if you want you can delete the empty folder left in shaderpacks
+**optional.** if you want you can delete the empty folder left in shaderpacks
+
+
+# Thanks
+
+**[Sildur](https://github.com/Sildurs-shaders)**
